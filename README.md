@@ -1,4 +1,5 @@
 # **TaskBuddy** 🚀
+![Screenshot 2024-12-30 113652](https://github.com/user-attachments/assets/26509065-d1ce-4226-a40d-8477672793fb)
 
 ## **What Will You Build? 🏗️**
 
