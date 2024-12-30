@@ -70,7 +70,7 @@
 .task-history h2 {
   font-size: 1.5rem;
   margin-bottom: 1rem;
-  color: #fbbf24; /* Matches Tailwind's text-yellow-400 */
+  color: #2488fb; /* Matches Tailwind's text-yellow-400 */
 }
 
 .task-history ul {
@@ -128,21 +128,25 @@
 
 /* Submit button */
 #inp button {
-  background-color: #fbbf24; /* Matches Tailwind's bg-yellow-400 */
-  color: #000000; /* Matches Tailwind's text-black */
+  background-color: #2488fb; /* Matches Tailwind's bg-yellow-400 */
+  color: #ffffff; /* Matches Tailwind's text-black */
   padding: 1rem; /* Matches Tailwind's p-4 */
   border: 1px solid black;
   cursor: pointer;
-  transition: background-color 0.3s ease-in-out; /* Matches Tailwind's transition duration-300 ease-in-out */
 }
 
 #inp button:hover {
-  background-color: #fcd34d; /* Matches Tailwind's hover:bg-yellow-300 */
+  background-color: #6aaaf3; 
 }
 
 #inp button:focus {
   outline: none;
   box-shadow: 0 0 0 2px #4dbcfc, 0 0 0 4px #1f2937; /* Matches Tailwind's focus:ring-2 focus:ring-yellow-300 focus:ring-offset-2 focus:ring-offset-gray-900 */
+}
+
+.btns select {
+    background-color: #2488fb;
+    padding: 30px;
 }
 
 /* Header */
@@ -174,7 +178,7 @@ header h1 {
 
 /* Span inside title */
 header h1 span {
-  color: #fbbf24; /* text-yellow-400 */
+  color: #2488fb; /* text-yellow-400 */
 }
 
 /* Paragraph */
@@ -194,7 +198,7 @@ header p {
 h1 {
   font-size: 2.5rem;
   margin-bottom: 20px;
-  color: #ffdf8b; /* Brand color for the header */
+  color: #2488fb; /* Brand color for the header */
   text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
 }
 
@@ -270,7 +274,7 @@ h1 {
 .task-list button {
   background-color: transparent;
   border: none;
-  color: #ffdf8b; /* Brand color for buttons */
+  color: #2488fb; /* Brand color for buttons */
   font-size: 1rem;
   cursor: pointer;
   transition: color 0.3s ease;
@@ -298,7 +302,7 @@ h1 {
   height: 100%;
   background: linear-gradient(
     90deg,
-    #feba01,
+    #2488fb,
     #8bc34a
   ); /* Gradient green for progress */
   border-radius: 10px;
