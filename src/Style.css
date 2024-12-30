@@ -142,7 +142,7 @@
 
 #inp button:focus {
   outline: none;
-  box-shadow: 0 0 0 2px #fcd34d, 0 0 0 4px #1f2937; /* Matches Tailwind's focus:ring-2 focus:ring-yellow-300 focus:ring-offset-2 focus:ring-offset-gray-900 */
+  box-shadow: 0 0 0 2px #4dbcfc, 0 0 0 4px #1f2937; /* Matches Tailwind's focus:ring-2 focus:ring-yellow-300 focus:ring-offset-2 focus:ring-offset-gray-900 */
 }
 
 /* Header */
