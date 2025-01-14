@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sandeepvaranasi1/TaskBuddyApp/static/css/main.63e624d2.css",
+    "main.js": "/sandeepvaranasi1/TaskBuddyApp/static/js/main.5a250eca.js",
+    "index.html": "/sandeepvaranasi1/TaskBuddyApp/index.html",
+    "main.63e624d2.css.map": "/sandeepvaranasi1/TaskBuddyApp/static/css/main.63e624d2.css.map",
+    "main.5a250eca.js.map": "/sandeepvaranasi1/TaskBuddyApp/static/js/main.5a250eca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63e624d2.css",
+    "static/js/main.5a250eca.js"
+  ]
+}
