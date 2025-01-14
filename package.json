@@ -8,7 +8,7 @@
     "react-dom": "^19.0.0",
     "react-scripts": "5.0.1"
   },
-  "homepage": "https://github.com/sandeepvaranasi1/TaskBuddyApp",
+  "homepage": "https://sandeepvaranasi1.github.io/TaskBuddyApp",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
